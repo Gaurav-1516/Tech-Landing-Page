@@ -1,0 +1,14 @@
+@import "colors";
+
+.services{
+    div{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        p{
+            font: 500 2rem $text2;
+            padding: 2rem;
+        }
+    }
+}
